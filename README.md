@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-https://portfolio-linna.netlify.app/#connect
+https://portfolio-linna.netlify.app
 
 ## Available Scripts
 
