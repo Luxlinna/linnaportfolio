@@ -491,7 +491,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   z-index: -4;
 }
 
-/************ Projects Css ************/
+/************ Contact Css ************/
 .contact {
   /* background: linear-gradient(90.21deg, rgba(100, 75, 213, 0.5) -5.91%, rgba(233, 96, 178, 0.5) 111.58%); */
   background: var(--background-gradient);
