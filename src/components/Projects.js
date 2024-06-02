@@ -28,7 +28,7 @@ export const Projects = () => {
   const projects = [
     {
       type: "project",
-      title: "LhvsBeauty",
+      title: "E-commerce",
       description: "Frontend Development",
       imgUrl: projImg1,
       linkUrl: "https://lhvsbeauty.netlify.app",
